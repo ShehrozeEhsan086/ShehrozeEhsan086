@@ -1,4 +1,4 @@
-![image](https://github.com/ShehrozeEhsan086/ShehrozeEhsan086/assets/80197565/70d1cecc-f310-4d2e-a1ff-7781f84b6431)<h1 align="center">Hi 👋, I'm Shehroze Ehsan</h1>
+<h1 align="center">Hi 👋, I'm Shehroze Ehsan</h1>
 <h3 align="center">Passionate Software Engineer on a Quest for Excellence and Self-Discovery</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehrozeehsan086&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozeehsan086" /> </p>
