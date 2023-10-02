@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehrozeehsan086&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozeehsan086" /> </p>
 
 
-- 🔭 I’m currently working on **Easy Electro Shop**
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Spring Boot, Microservices, React.js**
