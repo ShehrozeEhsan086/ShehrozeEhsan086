@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working as a **Junior Java Software Engineer** at **[Noetic Technologies](https://www.linkedin.com/company/noetic)**
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Redis, RabbitMQ, PostgreSQL**
+- 💬 Ask me about **Java, Spring Boot, ReactJs, NextJs, Microservices, Redis, RabbitMQ, PostgreSQL**
 
 - 📫 How to reach me **shehroze0912@gmail.com**
 
