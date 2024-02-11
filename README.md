@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehrozeehsan086&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozeehsan086" /> </p>
 
 
-- 🌱 I’m currently working as a **Junior Java Software Engineer** at **[Noetic Technologies](https://www.linkedin.com/company/noetic)**
+- 🌱 I’m currently working as an **Associate Software Engineer** at **[Vadion](https://www.linkedin.com/company/vadion/)**
 
 - 💬 Ask me about **Java, Spring Boot, ReactJs, NextJs, Microservices, Redis, RabbitMQ, PostgreSQL**
 
