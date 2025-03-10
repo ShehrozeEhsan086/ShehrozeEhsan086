@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehrozeehsan086&label=Profile%20views&color=0e75b6&style=flat" alt="shehrozeehsan086" /> </p>
 
 
-- 🌱 I’m currently working as an **Associate Software Engineer** at **[Vadion](https://www.linkedin.com/company/vadion/)**
+- 🌱 I’m currently working as an **Junior Software Engineer** at **[GFM](https://www.linkedin.com/company/globalfinancialmedia/)**
 
 - 💬 Ask me about **Java, Spring Boot, ReactJs, NextJs, Microservices, Redis, RabbitMQ, PostgreSQL**
 
